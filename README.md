@@ -25,3 +25,6 @@ Le jeu du morpion consiste à aligner 3 croix(X) ou ronds(O) afin de gagner la p
 <br>
 
 ### C. Ajoutez du style à l'interface afin de terminer le projet.
+
+Résultat :
+![Image initiale](profile/img/1.JPG)
